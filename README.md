@@ -4,7 +4,7 @@
 
 I've been programming for a decade.
 
-My favorite languages are C and Go, but I'm comfortable in many other languages.
+My favorite languages are C and Go, but I'm comfortable in many languages.
 
 Some things about me:
 
