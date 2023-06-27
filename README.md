@@ -24,5 +24,7 @@ Some things about me:
 
 ##### Links
 [Blog](https://michaelspangler.io)
+
 [Twitter](https://twitter.com/failbottt)
-[LinkedIn[(https://www.linkedin.com/in/michael-spangler-12413b1aa/)
+
+[LinkedIn](https://www.linkedin.com/in/michael-spangler-12413b1aa/)
