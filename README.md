@@ -17,7 +17,6 @@ Some things about me:
 * C
 * Go
 * JavaScript
-* Typescript
 * Bash
 * PHP
 * Python
