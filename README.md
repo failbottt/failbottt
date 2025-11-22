@@ -1,3 +1,3 @@
-I write most languages for work and C for myself.
-
 Programming for 13 years.
+
+Give me a language and I can program in it.
