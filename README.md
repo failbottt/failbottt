@@ -1,3 +1,3 @@
 Programming for 13 years.
 
-Give me a language and I can program in it.
+I work in whatever language is needed.
